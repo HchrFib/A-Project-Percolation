@@ -1,1 +1,1 @@
-# algorithmic-project
+# Algorithmic-project
